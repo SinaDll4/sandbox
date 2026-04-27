@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>در حال انتقال به پخش آنلاین</title>
+    <title>در حال انتقال</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
         * {
@@ -147,7 +147,7 @@
             }
         }
     </style>
-    <meta http-equiv="refresh" content="3;url=watch.php?l=481169673-bo1nltUQ">
+    <meta http-equiv="refresh" content="3;url=https://up4.filetolinkborbot.pics/uploader/downloader.bot/dl.php?f=BQACAgQAAxkBAAEBVOtp771RD8rSpawEyuEnaWqDsF2AGwACwxoAAg8DOFLx22oBhgt5ji8E&amp;s=4785396&amp;n=op13_Battery_Mod_Capacity_Unlock_v6.6_5924488672765287107.zip&amp;m=application%2Fzip">
 </head>
 <body>
     <div class="glass-card">
@@ -156,7 +156,7 @@
         </div>
         
         <h1 id="message">
-            در حال انتقال به صفحه پخش آنلاین...        </h1>
+            در حال انتقال به مقصد مورد نظر...        </h1>
         
         <div class="loader-container">
             <div class="loader"></div>
@@ -176,7 +176,7 @@
         
         <div class="manual-link" style="display: none;" id="manualLink">
             <p>اگر انتقال انجام نشد، روی لینک زیر کلیک کنید:</p>
-            <a href="watch.php?l=481169673-bo1nltUQ" id="downloadLink"></a>
+            <a href="https://up4.filetolinkborbot.pics/uploader/downloader.bot/dl.php?f=BQACAgQAAxkBAAEBVOtp771RD8rSpawEyuEnaWqDsF2AGwACwxoAAg8DOFLx22oBhgt5ji8E&amp;s=4785396&amp;n=op13_Battery_Mod_Capacity_Unlock_v6.6_5924488672765287107.zip&amp;m=application%2Fzip" id="downloadLink"></a>
         </div>
     </div>
 
@@ -202,8 +202,8 @@
         // Show manual link after 3 seconds
         setTimeout(() => {
             manualLink.style.display = 'block';
-            downloadLink.href = 'watch.php?l=481169673-bo1nltUQ';
-            downloadLink.textContent = 'watch.php?l=481169673-bo1nltUQ';
+            downloadLink.href = 'https://up4.filetolinkborbot.pics/uploader/downloader.bot/dl.php?f=BQACAgQAAxkBAAEBVOtp771RD8rSpawEyuEnaWqDsF2AGwACwxoAAg8DOFLx22oBhgt5ji8E&amp;s=4785396&amp;n=op13_Battery_Mod_Capacity_Unlock_v6.6_5924488672765287107.zip&amp;m=application%2Fzip';
+            downloadLink.textContent = 'https://up4.filetolinkborbot.pics/uploader/downloader.bot/dl.php?f=BQACAgQAAxkBAAEBVOtp771RD8rSpawEyuEnaWqDsF2AGwACwxoAAg8DOFLx22oBhgt5ji8E&amp;s=4785396&amp;n=op13_Battery_Mod_Capacity_Unlock_v6.6_5924488672765287107.zip&amp;m=application%2Fzip';
         }, 3000);
     </script>
 </body>
