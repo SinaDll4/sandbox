@@ -2,6 +2,16 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-04-28 20:38 IR
+- 🗜️ [roundsync_v2.6.0-oss-universal.apk.zip](https://github.com/SinaDll4/sandbox/raw/main/dl/roundsync_v2.6.0-oss-universal-release.apk.zip) `40.2MB`
+
+- 🗜️ [roundsync_v2.6.0-oss-universal.apk.z01](https://github.com/SinaDll4/sandbox/raw/main/dl/roundsync_v2.6.0-oss-universal-release.apk.z01) `95.0MB`
+
+- 🗜️ [roundsync_v2.6.0-oss-universal.apk.zip](https://github.com/SinaDll4/sandbox/raw/main/dl/roundsync_v2.6.0-oss-universal-release.apk.zip) `40.2MB`
+
+---
+
+
 ### 📅 2026-04-28 10:57 IR
 - 📱 [Telegram-X-0.28.3.1785.apk](https://github.com/SinaDll4/sandbox/raw/main/dl/Telegram-X-0.28.3.1785.apk) `85.9MB`
 
