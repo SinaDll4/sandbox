@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-04-28 20:43 IR
+- 📱 [roundsync_v2.6.0-oss-arm64-v8a.apk](https://github.com/SinaDll4/sandbox/raw/main/dl/roundsync_v2.6.0-oss-arm64-v8a-release.apk) `36.9MB`
+
+---
+
+
 ### 📅 2026-04-28 20:38 IR
 - 🗜️ [roundsync_v2.6.0-oss-universal.apk.zip](https://github.com/SinaDll4/sandbox/raw/main/dl/roundsync_v2.6.0-oss-universal-release.apk.zip) `40.2MB`
 
