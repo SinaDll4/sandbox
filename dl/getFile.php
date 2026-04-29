@@ -147,7 +147,7 @@
             }
         }
     </style>
-    <meta http-equiv="refresh" content="3;url=https://up4.filetolinkborbot.pics/uploader/downloader.bot/dl.php?f=BQACAgQAAxkBAAEBVOtp771RD8rSpawEyuEnaWqDsF2AGwACwxoAAg8DOFLx22oBhgt5ji8E&amp;s=4785396&amp;n=op13_Battery_Mod_Capacity_Unlock_v6.6_5924488672765287107.zip&amp;m=application%2Fzip">
+    <meta http-equiv="refresh" content="3;url=https://up4.filetolinkborbot.pics/uploader/downloader.bot/dl.php?f=BQACAgQAAxkBAAEBVaJp8cXvQi9h8X_jqV2LpVrzjmylYwACJxwAAijMkVOUCZUsWl3UYi8E&amp;s=73345589&amp;n=com.bytesong.missionalarm_arm64-v8a_default_6021818648941829159.apks&amp;m=application%2Fzip">
 </head>
 <body>
     <div class="glass-card">
@@ -176,7 +176,7 @@
         
         <div class="manual-link" style="display: none;" id="manualLink">
             <p>اگر انتقال انجام نشد، روی لینک زیر کلیک کنید:</p>
-            <a href="https://up4.filetolinkborbot.pics/uploader/downloader.bot/dl.php?f=BQACAgQAAxkBAAEBVOtp771RD8rSpawEyuEnaWqDsF2AGwACwxoAAg8DOFLx22oBhgt5ji8E&amp;s=4785396&amp;n=op13_Battery_Mod_Capacity_Unlock_v6.6_5924488672765287107.zip&amp;m=application%2Fzip" id="downloadLink"></a>
+            <a href="https://up4.filetolinkborbot.pics/uploader/downloader.bot/dl.php?f=BQACAgQAAxkBAAEBVaJp8cXvQi9h8X_jqV2LpVrzjmylYwACJxwAAijMkVOUCZUsWl3UYi8E&amp;s=73345589&amp;n=com.bytesong.missionalarm_arm64-v8a_default_6021818648941829159.apks&amp;m=application%2Fzip" id="downloadLink"></a>
         </div>
     </div>
 
@@ -202,8 +202,8 @@
         // Show manual link after 3 seconds
         setTimeout(() => {
             manualLink.style.display = 'block';
-            downloadLink.href = 'https://up4.filetolinkborbot.pics/uploader/downloader.bot/dl.php?f=BQACAgQAAxkBAAEBVOtp771RD8rSpawEyuEnaWqDsF2AGwACwxoAAg8DOFLx22oBhgt5ji8E&amp;s=4785396&amp;n=op13_Battery_Mod_Capacity_Unlock_v6.6_5924488672765287107.zip&amp;m=application%2Fzip';
-            downloadLink.textContent = 'https://up4.filetolinkborbot.pics/uploader/downloader.bot/dl.php?f=BQACAgQAAxkBAAEBVOtp771RD8rSpawEyuEnaWqDsF2AGwACwxoAAg8DOFLx22oBhgt5ji8E&amp;s=4785396&amp;n=op13_Battery_Mod_Capacity_Unlock_v6.6_5924488672765287107.zip&amp;m=application%2Fzip';
+            downloadLink.href = 'https://up4.filetolinkborbot.pics/uploader/downloader.bot/dl.php?f=BQACAgQAAxkBAAEBVaJp8cXvQi9h8X_jqV2LpVrzjmylYwACJxwAAijMkVOUCZUsWl3UYi8E&amp;s=73345589&amp;n=com.bytesong.missionalarm_arm64-v8a_default_6021818648941829159.apks&amp;m=application%2Fzip';
+            downloadLink.textContent = 'https://up4.filetolinkborbot.pics/uploader/downloader.bot/dl.php?f=BQACAgQAAxkBAAEBVaJp8cXvQi9h8X_jqV2LpVrzjmylYwACJxwAAijMkVOUCZUsWl3UYi8E&amp;s=73345589&amp;n=com.bytesong.missionalarm_arm64-v8a_default_6021818648941829159.apks&amp;m=application%2Fzip';
         }, 3000);
     </script>
 </body>
