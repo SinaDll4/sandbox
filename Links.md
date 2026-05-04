@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-04 19:01 IR
+- 📥 [slipstreamplus-windows-amd64.exe](https://github.com/SinaDll4/sandbox/raw/main/dl/slipstreamplus-windows-amd64.exe) `8.5MB`
+
+---
+
+
 ### 📅 2026-05-04 15:43 IR
 - 📱 [SlipNet-v2.5.3-full-universal.apk](https://github.com/SinaDll4/sandbox/raw/main/dl/SlipNet-v2.5.3-full-release-universal.apk) `54.6MB`
 
